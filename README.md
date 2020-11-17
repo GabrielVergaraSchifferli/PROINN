@@ -10,10 +10,6 @@
 # PROINN
 
 ## Portafolio de visualización de datos
+## Presione launch binder para ejecutar los códigos en su computador a través de el ambiente virtual de Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GabrielVergaraSchifferli/PROINN/main)
 
-### Setup
-
-Las instrucciones de uso se encuentran en [este](setup.md) siguiente archivo. 
-
-Para aquellos usuarios de Windows que quieran sacar partido, se recomienda mirar también [este](wsl_ds_toolkit.md) archivo, mostrando un entorno de trabajo con WSL.
