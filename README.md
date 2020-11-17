@@ -7,9 +7,9 @@
 </br>
 
 
-# MAT281 - Aplicaciones de la Matemática en la Ingeniería
+# PROINN
 
-## Portafolio Personal
+## Portafolio de visualización de datos
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GabrielVergaraSchifferli/PROINN/main)
 
 ### Setup
